@@ -41,11 +41,11 @@ Complete the following steps:
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/d8a1bcea-0183-4b98-8d69-33cda8f94085)
+![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/d8a71cfc-ebbe-4d68-9378-7c7d1c389f7b)
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/6476e6e9-a82d-40a0-9a17-9d8601430b20)
+![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/e1fa450f-3831-4361-9ba9-0d801d958c7b)
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
