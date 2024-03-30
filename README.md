@@ -20,7 +20,8 @@ Complete the following steps:
 
 	c. Use otu_labels as the hovertext for the chart.
 
-https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw01.jpg
+![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/b74a9b7f-b5c1-4525-bb06-d6e165205663)
+
 
 3. Create a bubble chart that displays each sample.
 
@@ -34,17 +35,17 @@ https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw01.jpg
 
 	e. Use otu_labels for the text values.
 
-https://static.bc-edx.com/data/dl-1-2/m14/lms/img/bubble_chart.jpg
+![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/8bad09c5-9796-4ecb-9a0b-ede259db9c16)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg
+![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/d8a1bcea-0183-4b98-8d69-33cda8f94085)
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw02.jpg
+![image](https://github.com/pbansal181/belly-button-challenge/assets/148804724/6476e6e9-a82d-40a0-9a17-9d8601430b20)
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
